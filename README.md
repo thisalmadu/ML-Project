@@ -13,4 +13,6 @@ This project is an analysis of the housing prices dataset from StatLib repositor
 
 And the analysis will display the main steps of a Machine learning project as follows. And this is a self learning project of mine to study the important steps of a machine learning project. For the analysis Scikit-Learn and TensoeFlow libraries and Keras deep learning API are used.
 
-<img src="images/population.png" width="500">
+<p align="center">
+  <img src="images/population.png" width="500">
+<\p>  
