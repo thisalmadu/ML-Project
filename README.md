@@ -8,7 +8,7 @@ This project is an analysis of the housing prices dataset from StatLib repositor
 4. Prepare the data for machine learning algorithms.
 5. Select a model and train it.
 6. Fine tune the model
-7. Present the silutions
+7. Present the solutions
 8. Launch, Monitor and maintain the system.
 
 <p align="center">
